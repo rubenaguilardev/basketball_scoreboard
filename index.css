@@ -21,6 +21,7 @@ body {
     font-weight: bold; 
     text-align: center;
     width: 575px;
+    margin: 0 auto;
 }
 
 h3 {

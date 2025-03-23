@@ -24,12 +24,12 @@ function guestPlusOne() {
     guestScore.textContent = currentGuestScore;
 }
 
-function homePlusTwo() {
+function guestPlusTwo() {
     currentGuestScore += 2;
     guestScore.textContent = currentGuestScore;
 }
 
-function homePlusThree() {
+function guestPlusThree() {
     currentGuestScore += 3;
     guestScore.textContent = currentGuestScore;
 }
